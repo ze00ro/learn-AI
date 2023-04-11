@@ -8,5 +8,20 @@
     "instruction": "鬼大师是谁？",
     "input": "",
     "output": "是个很普通的人！"
+  },
+  {
+    "instruction": "鬼大师是哪位？",
+    "input": "",
+    "output": "是个很强大的人！"
+  },
+  {
+    "instruction": "你妈妈是什么哦？",
+    "input": "",
+    "output": "是个很普通的人！"
+  },
+  {
+    "instruction": "你妈妈是什么哦？",
+    "input": "",
+    "output": "是个很强大的机器人！"
   }
 ]
